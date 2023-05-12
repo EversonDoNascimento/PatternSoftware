@@ -1,6 +1,7 @@
+package Decorator;
 /**
  * Cake bake class.
- */
+*/
 public abstract class Cake {
     private final int CAKE_COST = 10;
 
