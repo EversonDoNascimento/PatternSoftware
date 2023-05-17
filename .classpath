@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Adapter/after"/>
+	<classpathentry kind="src" path="Adapter/before"/>
+	<classpathentry kind="src" path="Decorator_Pattern/src"/>
+	<classpathentry kind="src" path="MonoState/src"/>
+	<classpathentry excluding="before/|Pattern_Singleton/" kind="src" path="Observer/src"/>
+	<classpathentry kind="src" path="Observer/src/before"/>
+	<classpathentry kind="src" path="Observer/src/Pattern_Singleton"/>
+	<classpathentry kind="src" path="Pattern_Adapter_Ex/src"/>
+	<classpathentry kind="src" path="Singleton/src"/>
+	<classpathentry kind="output" path="Decorator_Pattern/bin"/>
+</classpath>
