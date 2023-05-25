@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ConnectionPool {
+	
 	private final static int POOL_SIZE = 2;
 	private static List<Connection> connectionsPool;
 
